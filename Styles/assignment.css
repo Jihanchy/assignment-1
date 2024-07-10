@@ -79,13 +79,14 @@ header a {
 .link{
    text-decoration: none;
 }
+/* why web development section starts here */
 .web-development-reason{
-    width: 1000px;
+    width: 1001px;
     height: 1200px;
 border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
     margin: 0 auto;
-    margin-top: 70px;
+    margin-top: 69px;
     padding: 75px 90px;
     }
 .text-content{
@@ -127,6 +128,7 @@ width: 259.56px;
 height: 217.01px;
 
 }
+/* my inspiration section starts here */
 .inspiration-container{
     width:  1140px;
     height: 777px;
@@ -193,7 +195,7 @@ margin-top: 48px;
 .title-styles{
     font-size: 24px;
     font-weight: 800;
-    
+
 
 }
 .css-content{
